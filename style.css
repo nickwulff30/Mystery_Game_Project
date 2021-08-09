@@ -1,8 +1,18 @@
 h1 {
   color: rgb(13, 0, 128);
   font-size: 60px;
+  text-align: center;
 }
 
 body {
   background-color: silver;
+}
+
+#restart {
+  background-color: rgb(13, 0, 128);
+  padding: 10px 20px;
+  display: inline-block;
+  font-size: 18px;
+  color: white;
+  text-align: center;
 }
