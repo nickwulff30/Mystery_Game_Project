@@ -37,21 +37,23 @@ body {
   display: flex;
   margin: auto;
   justify-content: center;
-  font-size: 18px;
+  font-size: 25px;
   color: rgb(13, 0, 128);
 }
 
 #colorcontainer {
   display: flex;
   margin: 0 auto;
-  width: 100px;
-  padding-top: 50px;
-  border: greenyellow;
+  width: 800px;
+  height: 300px;
+  /* border: dashed 5px greenyellow; */
 }
 
 .colors {
   display: inline;
   margin: auto;
-  background-color: red;
-  border: greenyellow;
+  background-color: black;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
 }
