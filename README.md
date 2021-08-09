@@ -2,7 +2,7 @@
 
 **_*Game Description*_**
 
-A recent General Assembly SEI graduate, gifted in the art of CSS has just landsed his dream job at the top ranked unicorn in the country. His first task, select the background color for their next major product. The problem is, he was only given RGB values to select from. Help him match the RGB values to the correct color, so he can pass his first assignment with flying colors.
+A recent General Assembly SEI graduate, gifted in the art of CSS has just landed his dream job at a major company. His first task, select the background color for the company's next major product. The problem is, he was only given RGB values to select from. Help him match the RGB values to the correct color, so he can pass his first assignment with flying colors.
 
 ---
 
