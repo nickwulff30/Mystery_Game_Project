@@ -6,10 +6,9 @@ let colorMix = document.getElementByID('colorMix')
 let colors = document.getElementsByClassName('colors')
 let winMessage = document.getElementById('winMessage')
 
-
 //function to start the game.
 function startGame() {
-  colorMix
+  colorMix = picked
 }
 
 //Event Listeners
@@ -24,4 +23,4 @@ color2.addEventListener('click', playerClick)
 //function when you click on the circles:
 
 //RGBs values are numbers on a scale between 0 to 255.
-let RGBMix1 = (Math.round, Math.
+// let RGBMix1 = (Math.round, Math.
